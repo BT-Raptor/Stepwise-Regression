@@ -1,2 +1,4 @@
 # Stepwise-Regression
-The code for the stepwise regression
+Talking about Stepwise Regression in R & Python.
+
+This repository is the codebase for the [Stepwise Regression article](https://bowtiedraptor.substack.com/p/stepwise-regression?s=w)
